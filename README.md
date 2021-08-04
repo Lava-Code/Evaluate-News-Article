@@ -1,7 +1,7 @@
                     ## Evaluate News Article  with Natural Language Processing
 
 
-## The goal of this project is to give you practice with
+## The goal of this project is to give me practice with
 
 Create a single app using webPack No framewrok neded
 Setting up Webpack
